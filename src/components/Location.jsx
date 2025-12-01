@@ -42,7 +42,7 @@ export default function Location() {
                             <Clock className="icon" />
                             <div>
                                 <h3>Opening Hours</h3>
-                                <p>Mon - Sun: 7:00 AM - 8:00 PM</p>
+                                <p>Mon - Sat: 8:00 AM - 8:00 PM</p>
                             </div>
                         </div>
                     </div>
