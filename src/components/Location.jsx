@@ -16,7 +16,7 @@ export default function Location() {
                             <MapPin className="icon" />
                             <div>
                                 <h3>Address</h3>
-                                <p>Fish 2 Home</p>
+                                <p>Fish to Home</p>
                                 <p>Georgian Agencies</p>
                                 <p>Kattappana, Kerala</p>
                             </div>
@@ -26,7 +26,7 @@ export default function Location() {
                             <Phone className="icon" />
                             <div>
                                 <h3>Phone</h3>
-                                <p>+91 98765 43210</p>
+                                <p>9778448770</p>
                             </div>
                         </div>
 
@@ -34,7 +34,7 @@ export default function Location() {
                             <Mail className="icon" />
                             <div>
                                 <h3>Email</h3>
-                                <p>contact@georgianagencies.com</p>
+                                <p>georgianagenciesktpna@gmail.com</p>
                             </div>
                         </div>
 
@@ -56,7 +56,7 @@ export default function Location() {
                             allowFullScreen=""
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
-                            title="Fish 2 Home Location"
+                            title="Fish to Home Location"
                         ></iframe>
                         {/* Note: This is a generic Kattappana map embed. 
                 Please replace the src with the specific embed code for the exact location 

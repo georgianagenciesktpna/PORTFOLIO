@@ -6,7 +6,7 @@ export default function Footer() {
             <div className="container">
                 <div className="footer-content">
                     <div className="footer-brand">
-                        <h3>Fish 2 Home</h3>
+                        <h3>Fish to Home</h3>
                         <p>Quality you can trust.</p>
                     </div>
                     <div className="footer-links">

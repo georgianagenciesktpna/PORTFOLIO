@@ -40,6 +40,7 @@ body {
   color: var(--primary);
   font-weight: 800;
   line-height: 1.2;
+  font-family: 'Baloo Tammudu 2', cursive;
 }
 
 .subtitle {

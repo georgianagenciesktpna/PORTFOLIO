@@ -8,8 +8,8 @@ export default function Header() {
         <header className="header">
             <div className="container header-content">
                 <div className="logo">
-                    <h1>Fish 2 Home</h1>
-                    <span className="subtitle">by Georgian Agencies</span>
+                    <h1>Fish to Home</h1>
+                    <span className="subtitle">Georgian Agencies</span>
                 </div>
 
                 <nav className={`nav-links ${isMenuOpen ? 'active' : ''}`}>

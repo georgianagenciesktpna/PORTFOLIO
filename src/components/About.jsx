@@ -6,14 +6,14 @@ export default function About() {
         <section id="about" className="section bg-white">
             <div className="container">
                 <div className="section-header">
-                    <h2>About Georgian Agencies</h2>
+                    <h2>About Fish to Home</h2>
                     <div className="divider"></div>
                 </div>
 
                 <div className="about-grid">
                     <div className="about-content">
                         <p className="lead">
-                            Welcome to Fish 2 Home, your trusted partner for premium quality meat and seafood in Kattappana.
+                            Welcome to Fish to Home, your trusted partner for premium quality meat and seafood in Kattappana.
                         </p>
                         <p>
                             Operated by Georgian Agencies, we take pride in sourcing the freshest fish and antibiotic-free chicken.
