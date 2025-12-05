@@ -12,7 +12,7 @@ export default function Footer() {
                     <div className="footer-links">
                         <a href="#home">Home</a>
                         <a href="#about">About</a>
-                        <a href="#products">Products</a>
+                        <a href="https://fish-to-home-01.web.app/">Products</a>
                         <a href="#location">Location</a>
                     </div>
                 </div>
