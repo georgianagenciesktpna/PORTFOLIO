@@ -43,6 +43,7 @@ export default function Location() {
                             <div>
                                 <h3>Opening Hours</h3>
                                 <p>Mon - Sat: 8:00 AM - 8:00 PM</p>
+                                <p>Sunday Holiday</p>
                             </div>
                         </div>
                     </div>
